@@ -33,3 +33,8 @@
 .categories h1{
     color: white;
 }
+.shoe{
+    background-color: indianred;
+    border-radius: 6px;
+    padding: 5px 10px;
+}
